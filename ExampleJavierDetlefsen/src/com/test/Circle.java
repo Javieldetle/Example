@@ -17,7 +17,7 @@ public class Circle extends Figure {
 
     public String toString(){
 
-        return "Soy d  un círculo de radio "+radius;     
+        return "Soy un círculo de radio "+radius;     
 
     }
 
